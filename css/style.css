@@ -1,0 +1,70 @@
+h2,header{
+	text-align: center;
+	margin-top: 10px;
+}
+*{
+transition: all .1s ease-in;
+box-sizing:border-box;
+
+background: #A9ECA2;
+}
+
+body {
+	overflow: hidden;
+}
+
+li{
+	display: inline-block;
+	background:  #73B1C1;
+	font-size: 34px;
+	width: 25%;
+	text-align: center;
+	padding: 1%;
+}
+span{
+	display: block;
+}
+.paris{
+	background: red;
+}
+main{
+	display: inline-block;
+	width: 100%;
+	margin: 10%;
+	padding: 0;
+	margin-top: 0;
+	margin-bottom: 0;
+
+}
+ul li{
+	border: 2px solid #F7F2C1;
+}
+ul{
+	font-size: 0;
+	width: 70%
+}
+.half{
+	width: 50%;
+}
+.one{
+	width: 100%;
+}
+.pink{
+	background: #282D4F;
+}
+.orange{
+	background: #23103A;
+}
+.green{
+	background: #A0204C;
+}
+.blue{
+	background: #7BCECC;
+}
+.purple{
+	background: #FF6C00;
+}
+.yellow{
+	background: #FFDD00;
+
+}
